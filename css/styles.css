@@ -9,7 +9,7 @@ body, html {
 }
 
 .image1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/IMG_0430.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/hero.jpeg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -55,7 +55,7 @@ body, html {
 }
 
 .about-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/IMG_2035.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/about.JPG);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
